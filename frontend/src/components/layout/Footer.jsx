@@ -36,7 +36,7 @@ export default function Footer() {
       
       {/* Dòng bản quyền siêu nhỏ ở dưới cùng */}
       <div className="text-center text-teal-600/30 text-[10px] mt-2">
-        &copy; 2024 Lacani. All rights reserved.
+        &copy; 2026 Lacani. All rights reserved.
       </div>
     </footer>
   );
