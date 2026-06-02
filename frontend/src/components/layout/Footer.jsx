@@ -11,13 +11,13 @@ export default function Footer() {
           <div className="flex items-center gap-2 group">
             <Mail className="text-amber-500 shrink-0" size={16} />
             <a href="mailto:Lacani@gmail.com" className="text-teal-100/70 hover:text-amber-400 text-sm transition-colors font-medium">
-              Lacani@gmail.com
+              Lacani2006@gmail.com
             </a>
           </div>
           <div className="flex items-center gap-2 group">
             <Phone className="text-amber-500 shrink-0" size={16} />
             <a href="tel:0865206285" className="text-teal-100/70 hover:text-amber-400 text-sm transition-colors font-medium">
-              0865.206.285
+              0352 122 640
             </a>
           </div>
         </div>
